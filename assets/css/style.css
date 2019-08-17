@@ -1,0 +1,121 @@
+ul {
+    
+    border: 2px solid #ffffff;
+    display: inline;
+    list-style: none;
+   text-align: left;
+   margin-left: auto;
+   margin-right: auto;
+   font-size: 25px;
+  
+   
+   
+}
+
+#logo {
+    border: 2px solid #4aaaa5;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    width: 29%;
+    padding-left: 20px;
+    background-color: #4aaaa5;
+    
+}
+
+p {
+    border: 5px solid #dddddd;
+    color: #777777
+    
+
+}
+
+h1 {
+    border: 2px solid red;
+    display: inline;
+}
+
+#wrapper::after {
+    content: "";
+    display: block;
+    clear: both;
+    
+}
+
+#mainbio {
+    text-align: center;
+    width: 960px;
+    background-image: url("../images/email-pattern.jpeg");
+    
+    
+    
+}
+
+#navbar {
+   
+   
+
+  
+}
+
+#navbar li {
+    display: inline;
+    width: 50px;
+    padding: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+    
+}
+
+
+body {
+    width: 960px;
+    background-image: url("../images/email-pattern.jpeg")
+    
+
+}
+
+footer {
+    clear: both;
+    border-top: 8px solid #4aaaa5;
+    width: 960px;
+    text-align: center;
+    background-color: #777777;
+    height: 30px;
+    
+}
+
+img {
+    float: left;
+}
+
+.border {
+    background-color: #cccccc;
+    width: 960px;
+    border: solid 1px #cccccc;
+}
+
+
+.bottomborder {
+    background-color: #666666;
+    width: 960px;
+    border: solid 1px #dddddd;
+}
+.hello {
+    display: inline-block;
+    float: right;
+    
+
+}
+
+#wrapper {
+    padding: 40px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #4aaaa5;
+}
+
