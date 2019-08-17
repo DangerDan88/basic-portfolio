@@ -33,6 +33,11 @@ p {
 h1 {
     border: 2px solid red;
     display: inline;
+    color: #ffffff;
+}
+
+h2 {
+    color: #4aaaa5;
 }
 
 #wrapper::after {
@@ -116,6 +121,26 @@ img {
 
 a {
     text-decoration: none;
-    color: #4aaaa5;
+    color: #777777;
 }
 
+.message {
+    width: 300px;
+}
+
+.contactcontent {
+    border: 2px solid #dddddd;
+    background-color: #ffffff;
+    
+   
+}
+
+form {
+    text-align: left;
+    margin-right: 50px;
+}
+
+.sub {
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
